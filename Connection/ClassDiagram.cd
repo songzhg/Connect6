@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractAI" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEgGAQACAjCAQFAAoAAAkAEABQAABBGCgARQEFgA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIFactory" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>AIFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAACAAAiAAAgCAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingDialog" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAEVAAOAACEAABEAQAACAEACAAAoAkgMAEAEAAg=</HashCode>
+      <FileName>SettingDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConnectionApp" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAABAAAAAAA=</HashCode>
+      <FileName>Connection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConnectionDoc" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACQAAgAAAACAgAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>ConnectionDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConnectionView">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WQAAiEPAAIEAKSESWatAtAAriAgBAEIIwGgQBFwQhgA=</HashCode>
+      <FileName>ConnectionView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCDT" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VCDT.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCST" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VCST.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solver" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Solver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Connection.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_ChessBoardInfo" Collapsed="true">
+    <Position X="1.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_RoadItem" Collapsed="true">
+    <Position X="13.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_RoadInfo" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAgAAAAAIAAABAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_R_RoadItem" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_R_RoadInfo" Collapsed="true">
+    <Position X="9.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_ThreatRoadInfo" Collapsed="true">
+    <Position X="5.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_ThreatPointInfo" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_Threat" Collapsed="true">
+    <Position X="1.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_OneHandInfo" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAIAAAAAwAAAACAAYAgAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OneMovePlayInfo" Collapsed="true">
+    <Position X="15.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>OneMovePlayInfo.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_LineDrawInfo" Collapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAwABAACAAQAAAAAAAAA=</HashCode>
+      <FileName>ConnectionView.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="ChessBoardInfo" Collapsed="true">
+    <Position X="1.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="RoadItem" Collapsed="true">
+    <Position X="13.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="RoadInfo" Collapsed="true">
+    <Position X="13.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="R_RoadItem" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="R_RoadInfo" Collapsed="true">
+    <Position X="9.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ThreatRoadInfo" Collapsed="true">
+    <Position X="5.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ThreatPointInfo" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Threat" Collapsed="true">
+    <Position X="1.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OneHandInfo" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractAI.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LineDrawInfo" Collapsed="true">
+    <Position X="1.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectionView.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="ChessPlaySide" Collapsed="true">
+    <Position X="15.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>OneMovePlayInfo.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PKMode" Collapsed="true">
+    <Position X="17.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectionView.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="State" Collapsed="true">
+    <Position X="19.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ConnectionView.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
